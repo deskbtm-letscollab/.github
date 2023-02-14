@@ -1,7 +1,7 @@
 <img src="https://s2.loli.net/2022/04/25/dPcuzynwbxStgl4.png" />
 
 ```diff
-+ A self-host platform designed specifically for indie developers. 
++ A self-hosting platform explicitly designed for independent developers and open-source developers.
 + Provides financial services for profitable projects, BaaS.
 ```
 </br>
