@@ -1,4 +1,4 @@
-<img src="https://s2.loli.net/2022/04/25/dPcuzynwbxStgl4.png" />
+<img src="https://user-images.githubusercontent.com/45007226/220814748-96ec88ec-673d-4d38-abae-dce7d7c6695f.png" />
 
 ```diff
 + A self-hosting platform explicitly designed for indie developers and open-source developers.
