@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/45007226/245068424-e84cd3f6-81b3-4905-a850-18b59479ba79.svg" />
+<img src="https://user-images.githubusercontent.com/45007226/255768134-e4d4a832-3979-4534-9b81-34fbfa91aab3.svg" />
 
 ```diff
 + A self-hosted platform explicitly designed for indie developers or teams.
