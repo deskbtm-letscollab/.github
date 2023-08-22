@@ -2,7 +2,7 @@
 
 ```diff
 + A self-hosted platform explicitly designed for indie developers or teams.
-+ Providing financial services and BaaS.
++ Providing BaaS and financial services.
 ```
 </br>
 </br>
