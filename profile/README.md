@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/45007226/255768134-e4d4a832-3979-4534-9b81-34fbfa91aab3.svg" />
 
 ```diff
-+ A self-hosted platform explicitly designed for indie developers or teams.
++ A self-hosted platform explicitly designed for indie hackers or teams.
 + Providing BaaS and financial services.
 ```
 </br>
