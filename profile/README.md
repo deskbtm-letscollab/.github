@@ -2,7 +2,7 @@
 
 ```diff
 + A self-hosted platform explicitly designed for indie hackers or teams.
-+ Providing BaaS and financial services.
++ Providing BaaS and Close Collective services.
 ```
 </br>
 </br>
